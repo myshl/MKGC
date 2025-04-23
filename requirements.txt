@@ -1,0 +1,8 @@
+tqdm==4.64.0
+torch==1.11.0+cu113
+pandas==1.4.3
+pytorch_lightning==1.9.3
+numpy==1.21.5
+transformers==4.16.2
+dataclasses==0.6
+nltk==3.7
