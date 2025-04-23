@@ -1,5 +1,6 @@
 - Commands for reproducing:
 - Install all the requirements from `./requirements.txt`
+- unzip data.zip and img_data.zip
   ##### Train and Evaluate
   ```shell
   python main.py -dataset DB15K \
